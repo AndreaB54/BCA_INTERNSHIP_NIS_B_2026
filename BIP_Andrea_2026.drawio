@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0" pages="3">
   <diagram id="wR1iboObpAbgnw7YT5d-" name="Struktur Org GSIT - NIS B">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1419" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
         <mxCell id="wR_e2amJ8647YQy6IzUS-33" parent="wR_e2amJ8647YQy6IzUS-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Kabiro NIS C" vertex="1">
           <mxGeometry height="52" width="175" x="410" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="XTpZfz_USYEXpkbOrArI-8" parent="wR_e2amJ8647YQy6IzUS-33" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="-" vertex="1">
+        <mxCell id="XTpZfz_USYEXpkbOrArI-8" parent="wR_e2amJ8647YQy6IzUS-33" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Robertus Aditya" vertex="1">
           <mxGeometry height="26" width="175" y="26" as="geometry" />
         </mxCell>
         <mxCell id="wR_e2amJ8647YQy6IzUS-35" parent="wR_e2amJ8647YQy6IzUS-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Kabiro NIS D" vertex="1">
@@ -120,7 +120,7 @@
         <mxCell id="wR_e2amJ8647YQy6IzUS-17" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Head of IT System Operation (ISO)" vertex="1">
           <mxGeometry height="52" width="270" x="535" y="-370" as="geometry" />
         </mxCell>
-        <mxCell id="wR_e2amJ8647YQy6IzUS-18" parent="wR_e2amJ8647YQy6IzUS-17" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="-" vertex="1">
+        <mxCell id="wR_e2amJ8647YQy6IzUS-18" parent="wR_e2amJ8647YQy6IzUS-17" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Rahmadta Akmaludin" vertex="1">
           <mxGeometry height="26" width="270" y="26" as="geometry" />
         </mxCell>
         <mxCell id="wR_e2amJ8647YQy6IzUS-27" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Kabiro NIS A" vertex="1">
@@ -261,7 +261,7 @@
           <mxGeometry height="30" width="160" x="630" y="180" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-1" parent="1" style="swimlane;startSize=20;horizontal=1;containerType=tree;" value="Mindmap BHO" vertex="1">
-          <mxGeometry height="230" width="930" x="380" y="200" as="geometry" />
+          <mxGeometry height="230" width="935" x="380" y="200" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-2" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-3" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" target="E6t2v3RwvoV2y2x1m3Os-4" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -271,12 +271,6 @@
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-4" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="D2D" vertex="1">
           <mxGeometry height="30" width="70" x="190" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-5" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="40" x="275" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-6" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-5" style="edgeStyle=entityRelationEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="E6t2v3RwvoV2y2x1m3Os-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-7" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="ESR" vertex="1">
           <mxGeometry height="30" width="70" x="615" y="60" as="geometry" />
@@ -298,8 +292,8 @@
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-11" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-12" style="edgeStyle=entityRelationEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="E6t2v3RwvoV2y2x1m3Os-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-12" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="40" x="80" y="100" as="geometry" />
+        <mxCell id="E6t2v3RwvoV2y2x1m3Os-12" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Planning jaringan cabang baru" vertex="1">
+          <mxGeometry height="30" width="200" y="100" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-13" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;curved=1;" target="E6t2v3RwvoV2y2x1m3Os-7">
           <mxGeometry relative="1" as="geometry">
@@ -310,20 +304,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-14" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="?" vertex="1">
-          <mxGeometry height="30" width="50" x="751" y="100" as="geometry" />
+        <mxCell id="E6t2v3RwvoV2y2x1m3Os-14" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Review &amp;amp; Improvement Automation" vertex="1">
+          <mxGeometry height="30" width="230" x="661" y="100" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-15" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-16" style="edgeStyle=entityRelationEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="E6t2v3RwvoV2y2x1m3Os-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-16" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="?" vertex="1">
-          <mxGeometry height="30" width="50" x="805" y="60" as="geometry" />
+        <mxCell id="E6t2v3RwvoV2y2x1m3Os-16" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Standardisasi Solusi D2D (SOP)" vertex="1">
+          <mxGeometry height="30" width="210" x="725" y="60" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-17" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-18" style="edgeStyle=entityRelationEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="E6t2v3RwvoV2y2x1m3Os-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-18" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="?" vertex="1">
-          <mxGeometry height="30" width="50" x="746" y="20" as="geometry" />
+        <mxCell id="E6t2v3RwvoV2y2x1m3Os-18" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Automation Operasional NIS B" vertex="1">
+          <mxGeometry height="30" width="200" x="671" y="20" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-19" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Project" vertex="1">
           <mxGeometry height="30" width="80" x="530" y="150" as="geometry" />
@@ -337,20 +331,50 @@
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-21" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-22" style="edgeStyle=entityRelationEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="E6t2v3RwvoV2y2x1m3Os-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-22" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="?" vertex="1">
-          <mxGeometry height="30" width="50" x="725" y="140" as="geometry" />
+        <mxCell id="E6t2v3RwvoV2y2x1m3Os-22" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="memenuhi kebutuhan baru" vertex="1">
+          <mxGeometry height="30" width="180" x="660" y="140" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-23" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-24" style="edgeStyle=entityRelationEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="E6t2v3RwvoV2y2x1m3Os-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-24" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="?" vertex="1">
-          <mxGeometry height="30" width="50" x="470" y="190" as="geometry" />
+        <mxCell id="E6t2v3RwvoV2y2x1m3Os-24" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Topology Alignment &amp;amp; Consolidation" vertex="1">
+          <mxGeometry height="30" width="230" x="330" y="190" as="geometry" />
         </mxCell>
         <mxCell id="E6t2v3RwvoV2y2x1m3Os-25" edge="1" parent="E6t2v3RwvoV2y2x1m3Os-1" source="E6t2v3RwvoV2y2x1m3Os-26" style="edgeStyle=entityRelationEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="E6t2v3RwvoV2y2x1m3Os-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E6t2v3RwvoV2y2x1m3Os-26" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="?" vertex="1">
-          <mxGeometry height="30" width="50" x="685" y="180" as="geometry" />
+        <mxCell id="E6t2v3RwvoV2y2x1m3Os-26" parent="E6t2v3RwvoV2y2x1m3Os-1" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Koordinasi dengan pihak luar" vertex="1">
+          <mxGeometry height="30" width="200" x="610" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmb78cMgCzXT5i0hOme-2" parent="1" style="swimlane;startSize=20;horizontal=1;containerType=tree;" value="Mindmap SAE" vertex="1">
+          <mxGeometry height="190" width="510" x="-250" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmb78cMgCzXT5i0hOme-3" edge="1" parent="QPmb78cMgCzXT5i0hOme-2" source="QPmb78cMgCzXT5i0hOme-4" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" target="QPmb78cMgCzXT5i0hOme-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmb78cMgCzXT5i0hOme-4" parent="QPmb78cMgCzXT5i0hOme-2" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Subsidiary, ATM, EBC" vertex="1">
+          <mxGeometry height="40" width="100" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmb78cMgCzXT5i0hOme-5" parent="QPmb78cMgCzXT5i0hOme-2" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Layanan PJTI" vertex="1">
+          <mxGeometry height="30" width="120" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmb78cMgCzXT5i0hOme-8" parent="QPmb78cMgCzXT5i0hOme-2" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Booth electronic" vertex="1">
+          <mxGeometry height="30" width="130" x="350" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmb78cMgCzXT5i0hOme-9" edge="1" parent="QPmb78cMgCzXT5i0hOme-2" source="QPmb78cMgCzXT5i0hOme-4" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" target="QPmb78cMgCzXT5i0hOme-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="100" as="sourcePoint" />
+            <mxPoint x="115" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPmb78cMgCzXT5i0hOme-20" parent="QPmb78cMgCzXT5i0hOme-2" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" value="Koneksi mesin ATM" vertex="1">
+          <mxGeometry height="30" width="150" x="340" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QPmb78cMgCzXT5i0hOme-21" edge="1" parent="QPmb78cMgCzXT5i0hOme-2" source="QPmb78cMgCzXT5i0hOme-4" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;fontSize=12;startSize=8;endSize=8;" target="QPmb78cMgCzXT5i0hOme-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="190" as="sourcePoint" />
+            <mxPoint x="395" y="165" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
