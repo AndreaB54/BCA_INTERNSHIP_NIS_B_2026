@@ -380,20 +380,20 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BCA Value" id="Qbsy7ndJrM2RTDR0cW1O">
-    <mxGraphModel dx="1418" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="512" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="opktFnXmAWwISk8aepUj-0" />
         <mxCell id="opktFnXmAWwISk8aepUj-1" parent="opktFnXmAWwISk8aepUj-0" />
-        <mxCell id="opktFnXmAWwISk8aepUj-2" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="opktFnXmAWwISk8aepUj-2" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fokus pada Nasabah" vertex="1">
           <mxGeometry height="60" width="120" x="65" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="opktFnXmAWwISk8aepUj-3" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="opktFnXmAWwISk8aepUj-3" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Integritas" vertex="1">
           <mxGeometry height="60" width="120" x="265" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="opktFnXmAWwISk8aepUj-4" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="opktFnXmAWwISk8aepUj-4" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kerjasama Tim" vertex="1">
           <mxGeometry height="60" width="120" x="465" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="OzXDtI_lEARrKuXR4ZJ7-0" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="OzXDtI_lEARrKuXR4ZJ7-0" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Berusaha Mencapai yang Terbaik" vertex="1">
           <mxGeometry height="60" width="120" x="665" y="40" as="geometry" />
         </mxCell>
       </root>
