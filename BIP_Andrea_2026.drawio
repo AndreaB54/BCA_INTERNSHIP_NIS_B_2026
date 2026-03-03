@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.1">
-  <diagram id="wR1iboObpAbgnw7YT5d-" name="Struktur Organisasi IIO">
-    <mxGraphModel dx="1042" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.0" pages="3">
+  <diagram id="wR1iboObpAbgnw7YT5d-" name="Struktur Org GSIT - NIS B">
+    <mxGraphModel dx="1418" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,44 @@
           <mxGeometry height="80" width="80" x="385" y="40" as="geometry" />
         </mxCell>
         <mxCell id="pw0Ee-jMiuYsHHOV_UCx-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="370" y="310" as="geometry" />
+          <mxGeometry height="60" width="120" x="365" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AW8kt0aqnl-CwP4doNjX" name="Urusan NIS B">
+    <mxGraphModel dx="1418" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MUZCLI_AbWUzdXMtukW5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="H2H, WiFi &amp;amp; Event" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUZCLI_AbWUzdXMtukW5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Branch &amp;amp; Hub Operation" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MUZCLI_AbWUzdXMtukW5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Subsidiary, ATM, &amp;amp; EBC" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="BCA Value" id="Qbsy7ndJrM2RTDR0cW1O">
+    <mxGraphModel dx="1418" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="opktFnXmAWwISk8aepUj-0" />
+        <mxCell id="opktFnXmAWwISk8aepUj-1" parent="opktFnXmAWwISk8aepUj-0" />
+        <mxCell id="opktFnXmAWwISk8aepUj-2" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="65" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="opktFnXmAWwISk8aepUj-3" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="265" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="opktFnXmAWwISk8aepUj-4" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="465" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OzXDtI_lEARrKuXR4ZJ7-0" parent="opktFnXmAWwISk8aepUj-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="665" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
